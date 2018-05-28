@@ -1,6 +1,6 @@
 # N-Puzzle Solver
 
-Program to solve the n-puzzle (8 puzzle) problem using search algorithm techniquest BFS and DFS
+Program to solve the n-puzzle (8 puzzle) problem using search algorithm techniques BFS and DFS
 
 ## Getting Started
 
