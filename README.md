@@ -45,3 +45,11 @@ running_time: [time taken for program to execute]
 max_ram_usage:[amount of memory used to run program(coming soon)]
 ```
 ## File content
+```
+driver_3.py [main executable]
+createNode [class to create node object and attributes]
+search_3.py [file containing search algorithm functions]
+expandNode_3.py [file containing script to expand node and add children nodes]
+stats_3.py [collects search metrics and formulates an output]
+output.txt [file containing search metrics]
+```
